@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$/_layouts/post.html" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/_posts/2014-05-21-Welcome.markdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2014-05-21-前端翻译小站.markdown" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/about.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/books.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docs.md" charset="UTF-8" />
