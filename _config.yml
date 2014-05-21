@@ -1,10 +1,10 @@
 # Site settings
-name: Dat site title tho
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+name: 前端翻译小站
+title: 前端翻译小站
+email: trans4fun@gmail.com
+description: "一个专注于翻译的小组织，业内知名技术翻译团体，小组成员分布于中国大陆，香港，台湾，新加坡，美国等地IT巨头公司。主要合作出版社有图灵和人民邮电，期待您的加入。"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.trans4fun.com"
 
 # Build settings
 markdown: kramdown
