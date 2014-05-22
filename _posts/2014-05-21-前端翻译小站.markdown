@@ -3,4 +3,7 @@ layout: post
 title: 翻译小站改版中
 ---
 
-# 欢迎访问
+## 声明
+
+由于trans4fun.org被小日本非法抢注，所以正式更换域名为 www.trans4fun.com 。
+小站的内容在不断迁移中，接受投稿。

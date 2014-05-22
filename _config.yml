@@ -7,6 +7,22 @@ description: "一个专注于翻译的小组织，业内知名技术翻译团体
 baseurl: ""
 url: "http://www.trans4fun.com"
 
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: 首页
+    url: /
+  - title: 关于
+    url: /about/
+  - title: 书籍
+    url: /books/
+  - title: 文档
+    url: /docs/
+  - title: 成员
+    url: /members/
+  - title: 小组
+    url: /group/
+
 # Build settings
 markdown: kramdown
 permalinks: pretty

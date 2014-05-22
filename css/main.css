@@ -89,20 +89,20 @@ a:visited { color: #205caa; }
 
 .site-footer .column { float: left; margin-bottom: 15px; }
 
-.footer-col-1 {
-  width: 270px; /*fallback*/
-  width: -webkit-calc(35% - 10px);
-  width: -moz-calc(35% - 10px);
-  width: -o-calc(35% - 10px);
-  width: calc(35% - 10px);
+.footer-col-2 {
+  width: 255px; /*fallback*/
+  width: -webkit-calc(30% - 10px);
+  width: -moz-calc(30% - 10px);
+  width: -o-calc(30% - 10px);
+  width: calc(30% - 10px);
   margin-right: 10px
 }
-.footer-col-2 {
-  width: 175px; /*fallback*/
-  width: -webkit-calc(23.125% - 10px);
-  width: -moz-calc(23.125% - 10px);
-  width: -o-calc(23.125% - 10px);
-  width: calc(23.125% - 10px);
+.footer-col-1 {
+  width: 200px; /*fallback*/
+  width: -webkit-calc(28.125% - 10px);
+  width: -moz-calc(28.125% - 10px);
+  width: -o-calc(28.125% - 10px);
+  width: calc(28.125% - 10px);
   margin-right: 10px
 }
 .footer-col-3 {
@@ -169,7 +169,7 @@ a:visited { color: #205caa; }
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
-  font-size: 42px;
+  font-size: 36px;
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
@@ -227,8 +227,8 @@ a:visited { color: #205caa; }
 
 .post pre,
 .post code {
-  border: 1px solid #d5d5e9;
-  background-color: #eef;
+  border: 1px dashed #333;
+  background-color: #FBFBE7;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
