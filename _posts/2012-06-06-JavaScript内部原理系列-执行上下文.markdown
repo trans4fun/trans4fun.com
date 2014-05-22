@@ -8,7 +8,7 @@ author:
 
 #### 说明
 
-此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/)的文章[Execution Context](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
+此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/){:target="_blank"}的文章[Execution Context](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/){:target="_blank"}
 
 #### 概要
 
@@ -132,4 +132,4 @@ ECStack会被修改为：
 
 #### 扩展阅读
 
-ECMA-363-3标准文档的对应的章节—— [10. 执行上下文](http://bclary.com/2004/11/07/#a-10)
+ECMA-363-3标准文档的对应的章节—— [10. 执行上下文](http://bclary.com/2004/11/07/#a-10){:target="_blank"}

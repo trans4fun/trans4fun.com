@@ -8,7 +8,7 @@ author:
 
 #### 说明
 
-此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/)的文章[Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/)
+此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/){:target="_blank"}的文章[Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/){:target="_blank"}
 另，此文还有另外一位同事（宋珍珍）共同参译
 
 #### 概要
@@ -418,7 +418,7 @@ arguments对象的properties-indexes的值和当前（实际传递的）形参�
 
 #### 扩展阅读
 
-* 10.1.3 —— [变量初始化](http://bclary.com/2004/11/07/#a-10.1.3)
-* 10.1.5 —— [全局对象](http://bclary.com/2004/11/07/#a-10.1.5)
-* 10.1.6 —— [活跃对象](http://bclary.com/2004/11/07/#a-10.1.6)
-* 10.1.8 —— [参数对象](http://bclary.com/2004/11/07/#a-10.1.8)
+* 10.1.3 —— [变量初始化](http://bclary.com/2004/11/07/#a-10.1.3){:target="_blank"}
+* 10.1.5 —— [全局对象](http://bclary.com/2004/11/07/#a-10.1.5){:target="_blank"}
+* 10.1.6 —— [活跃对象](http://bclary.com/2004/11/07/#a-10.1.6){:target="_blank"}
+* 10.1.8 —— [参数对象](http://bclary.com/2004/11/07/#a-10.1.8){:target="_blank"}

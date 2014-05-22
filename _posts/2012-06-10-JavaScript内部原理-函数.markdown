@@ -8,7 +8,7 @@ author:
 
 #### 说明
 
-此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/)的文章[Functions](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/)
+此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/){:target="_blank"}的文章[Functions](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/){:target="_blank"}
 
 #### 概要
 
@@ -612,5 +612,5 @@ ECMAScript中包含三类函数，每一类都有各自的特性。
 
 ECMAScript标准：
 
-* 13 —— [函数定义](http://bclary.com/2004/11/07/#a-13)
-* 15.3 —— [函数对象](http://bclary.com/2004/11/07/#a-15.3)
+* 13 —— [函数定义](http://bclary.com/2004/11/07/#a-13){:target="_blank"}
+* 15.3 —— [函数对象](http://bclary.com/2004/11/07/#a-15.3){:target="_blank"}

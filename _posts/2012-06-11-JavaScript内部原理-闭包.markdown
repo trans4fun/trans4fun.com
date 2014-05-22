@@ -8,7 +8,7 @@ author:
 
 #### 说明
 
-此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/)的文章[closures](http://dmitrysoshnikov.com/ecmascript/chapter-6-closures/)
+此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/){:target="_blank"}的文章[closures](http://dmitrysoshnikov.com/ecmascript/chapter-6-closures/){:target="_blank"}
 另，此文还有另外一位同事（彭森材）共同参译
 
 #### 概要
@@ -499,6 +499,6 @@ ECMAScript中，闭包指的是：
 
 #### 扩展阅读
 
-* [JavaScript闭包（by Richard Cornford）](http://jibbering.com/faq/notes/closures/)
-* [Funarg问题](http://en.wikipedia.org/wiki/Funarg_problem)
-* [闭包](http://en.wikipedia.org/wiki/Closure_(computer_science))
+* [JavaScript闭包（by Richard Cornford）](http://jibbering.com/faq/notes/closures/){:target="_blank"}
+* [Funarg问题](http://en.wikipedia.org/wiki/Funarg_problem){:target="_blank"}
+* [闭包](http://en.wikipedia.org/wiki/Closure_(computer_science)){:target="_blank"}

@@ -8,7 +8,7 @@ author:
 
 #### 说明
 
-此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/)的文章[Scope Chain](http://dmitrysoshnikov.com/ecmascript/chapter-4-scope-chain/)
+此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/){:target="_blank"}的文章[Scope Chain](http://dmitrysoshnikov.com/ecmascript/chapter-4-scope-chain/){:target="_blank"}
 另，此文还有另外一位同事（邵信衡）共同参译
 
 #### 概要
@@ -413,5 +413,5 @@ ECMAScript中，在运行时，执行代码阶段有两种语句可以修改作�
 
 #### 扩展阅读
 
-* 8.6.2 —— [[[Scope]]](http://bclary.com/2004/11/07/#a-8.6.2)
-* 10.1.4 —— [作用域链和标识符的处理](http://bclary.com/2004/11/07/#a-10.1.4)
+* 8.6.2 —— [[[Scope]]](http://bclary.com/2004/11/07/#a-8.6.2){:target="_blank"}
+* 10.1.4 —— [作用域链和标识符的处理](http://bclary.com/2004/11/07/#a-10.1.4){:target="_blank"}

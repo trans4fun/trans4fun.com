@@ -8,7 +8,7 @@ author:
 
 #### 说明
 
-此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/)的文章[this](http://dmitrysoshnikov.com/ecmascript/chapter-3-this/)
+此文译自[Dmitry A.Soshnikov](http://dmitrysoshnikov.com/){:target="_blank"}的文章[this](http://dmitrysoshnikov.com/ecmascript/chapter-3-this/){:target="_blank"}
 
 #### 概要
 
@@ -442,7 +442,7 @@ Function.prototype上定义了两个方法（因此，它们对所有函数而�
 
 #### 扩展阅读
 
-* [This](http://bclary.com/2004/11/07/#a-10.1.7)
-* [this关键字](http://bclary.com/2004/11/07/#a-10.1.7)
-* [new操作符](http://bclary.com/2004/11/07/#a-10.1.7)
-* [函数调用](http://bclary.com/2004/11/07/#a-10.1.7)
+* [This](http://bclary.com/2004/11/07/#a-10.1.7){:target="_blank"}
+* [this关键字](http://bclary.com/2004/11/07/#a-10.1.7){:target="_blank"}
+* [new操作符](http://bclary.com/2004/11/07/#a-10.1.7){:target="_blank"}
+* [函数调用](http://bclary.com/2004/11/07/#a-10.1.7){:target="_blank"}
