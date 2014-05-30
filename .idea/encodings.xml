@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/_includes/footer.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_layouts/default.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_layouts/post.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2012-06-06-JavaScript内部原理系列-执行上下文.markdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2012-06-07-JavaScript内部原理系列-变量对象.markdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2012-06-08-JavaScript内部原理系列-this.markdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2012-06-09-JavaScript内部原理系列-作用域链.markdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2012-06-10-JavaScript内部原理-函数.markdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts/2012-06-11-JavaScript内部原理-闭包.markdown" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_posts/2014-05-21-前端翻译小站.markdown" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/about.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/books.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docs.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/group.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/members.md" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

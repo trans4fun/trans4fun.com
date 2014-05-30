@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5165ae41-8a1b-40ec-8010-f249d71ca8fc" name="Default" comment="" />
+    <list default="true" id="5165ae41-8a1b-40ec-8010-f249d71ca8fc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.md" afterPath="$PROJECT_DIR$/members.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Jekyll-HMFAYSAL-V2-Theme-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,91 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="53" selection-end="62" vertical-scroll-proportion="0.084269665" vertical-offset="0" max-vertical-offset="534">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/books.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="56" selection-start="108" selection-end="108" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-05-21-前端翻译小站.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-05-21-前端翻译小站.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="23" selection-start="1898" selection-end="1898" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="960">
+            <state line="17" column="68" selection-start="683" selection-end="683" vertical-scroll-proportion="0.46703297" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docs.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs.md">
+      <file leaf-file-name="members.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/members.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="360">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="346" selection-end="346" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="56" selection-start="252" selection-end="259" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="390">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="20" column="45" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -120,32 +53,41 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_includes/_head.html" />
-        <option value="$PROJECT_DIR$/_posts/2011-03-10-sample-post.md" />
-        <option value="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" />
-        <option value="$PROJECT_DIR$/_posts/2013-05-23-readability-feature-post.md" />
-        <option value="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" />
-        <option value="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/docs.md" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/group.md" />
         <option value="$PROJECT_DIR$/books.md" />
+        <option value="$PROJECT_DIR$/docs.md" />
+        <option value="$PROJECT_DIR$/_posts/2012-06-06-JavaScript内部原理系列-执行上下文.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-06-07-JavaScript内部原理系列-变量对象.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-06-08-JavaScript内部原理系列-this.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-06-09-JavaScript内部原理系列-作用域链.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-06-10-JavaScript内部原理-函数.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2012-06-11-JavaScript内部原理-闭包.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-05-21-前端翻译小站.markdown" />
         <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_posts/2014-05-21-Welcome.markdown" />
-        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/members.md" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
     <option name="y" value="22" />
-    <option name="width" value="1260" />
+    <option name="width" value="1248" />
     <option name="height" value="718" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -179,13 +121,13 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jekyll-HMFAYSAL-V2-Theme-master" />
+              <option name="myItemId" value="trans4fun.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jekyll-HMFAYSAL-V2-Theme-master" />
+              <option name="myItemId" value="trans4fun.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -195,7 +137,21 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jekyll-HMFAYSAL-V2-Theme-master" />
+              <option name="myItemId" value="trans4fun.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trans4fun.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trans4fun.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -209,7 +165,21 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jekyll-HMFAYSAL-V2-Theme-master" />
+              <option name="myItemId" value="trans4fun.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trans4fun.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trans4fun.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -229,12 +199,13 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="File.Encoding" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/self/weitask_php/webapps/ROOT/weitask" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/assets/css" />
     </key>
   </component>
@@ -264,7 +235,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1260" height="718" extended-state="0" />
+    <frame x="18" y="22" width="1248" height="718" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -272,7 +243,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23805602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36356074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -299,107 +270,88 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="15" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../www.trans4fun.com/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="98" selection-start="355" selection-end="434" vertical-scroll-proportion="0.26929983" vertical-offset="0" max-vertical-offset="1155">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="346" selection-end="346" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="56" selection-start="252" selection-end="259" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="7" column="60" selection-start="125" selection-end="125" vertical-scroll-proportion="0.18421052" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-06-06-JavaScript内部原理系列-执行上下文.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="88" selection-start="2789" selection-end="2789" vertical-scroll-proportion="0.83146065" vertical-offset="1566" max-vertical-offset="2100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-06-07-JavaScript内部原理系列-变量对象.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="76" selection-start="9237" selection-end="9237" vertical-scroll-proportion="0.83146065" vertical-offset="5901" max-vertical-offset="6435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-06-08-JavaScript内部原理系列-this.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="447" column="66" selection-start="9417" selection-end="9417" vertical-scroll-proportion="0.83146065" vertical-offset="6261" max-vertical-offset="6795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-06-10-JavaScript内部原理-函数.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="615" column="72" selection-start="13846" selection-end="13846" vertical-scroll-proportion="0.8033708" vertical-offset="8796" max-vertical-offset="9330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-06-11-JavaScript内部原理-闭包.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="503" column="81" selection-start="11492" selection-end="11492" vertical-scroll-proportion="0.83146065" vertical-offset="7101" max-vertical-offset="7635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="20" selection-start="3778" selection-end="3778" vertical-scroll-proportion="0.6741573" vertical-offset="2370" max-vertical-offset="6735" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/books.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="56" selection-start="108" selection-end="108" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-05-21-前端翻译小站.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="14" column="24" selection-start="287" selection-end="287" vertical-scroll-proportion="0.36842105" vertical-offset="0" max-vertical-offset="570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.16453382" vertical-offset="0" max-vertical-offset="547">
+        <state line="12" column="29" selection-start="234" selection-end="234" vertical-scroll-proportion="0.33707866" vertical-offset="0" max-vertical-offset="534" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="197" selection-end="197" vertical-scroll-proportion="0.28680688" vertical-offset="0" max-vertical-offset="523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.082417585" vertical-offset="0" max-vertical-offset="546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-05-21-前端翻译小站.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="40" selection-end="40" vertical-scroll-proportion="0.13157895" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="77" selection-end="77" vertical-scroll-proportion="0.21052632" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-06-09-JavaScript内部原理系列-作用域链.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="415" column="79" selection-start="8730" selection-end="8798" vertical-scroll-proportion="0.8114901" vertical-offset="5773" max-vertical-offset="6330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/members.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="45" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="23" selection-start="1898" selection-end="1898" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="53" selection-end="62" vertical-scroll-proportion="0.084269665" vertical-offset="0" max-vertical-offset="534">
+        <state line="17" column="68" selection-start="683" selection-end="683" vertical-scroll-proportion="0.46703297" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
